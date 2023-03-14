@@ -1,0 +1,16 @@
+{
+    "NAME": "Yash Aryan",
+    "ABOUT_ME": "As a passionate software engineering student, I am dedicated to acquiring the skills and knowledge needed to become a proficient developer. I possess a strong foundation in programming languages, algorithms, and data structures, and I am continuously seeking to improve my technical abilities through personal projects and academic coursework.With a desire to innovate and solve complex problems, I am committed to pursuing a career in software engineering. I am always eager to learn and collaborate with other developers to create software that not only meets industry standards but also exceeds expectations.I am excited about the possibilities that the field of software engineering presents, and I am determined to make a positive impact in the industry.",
+    "LANGUAGES": [
+                "Python",
+                "JavaScript",
+                "C++",
+                "GoLang"
+    ],
+    "PROJECTS": [
+                ["filter_drama","First","Lorem ipsum dolor sit amet."],
+                ["place","Second","Lorem ipsum dolor sit amet."],
+                ["whatshot","Third","Lorem ipsum dolor sit amet."]
+                
+    ]
+}
